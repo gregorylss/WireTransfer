@@ -1,6 +1,6 @@
 <?php
 
-namespace WireTransfer\Api\Provider;
+namespace WireTransfer\Api\State;
 
 use ApiPlatform\Metadata\Operation;
 use ApiPlatform\State\ProviderInterface;
